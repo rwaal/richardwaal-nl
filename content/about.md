@@ -6,6 +6,8 @@ showReadTime: false
 ---
 # 🇳🇱 About me
 
+![](/images/richard.jpeg)
+
 My name is Richard Waal, based near Amsterdam, in the Netherlands. I am a freelance cloud engineer with a passion for technology. Specialized in Microsoft Azure, automation and DevOps related practices and tools.
 
 I write about things I encounter during my daily work. Mostly around Microsoft Azure and automation related topics.  
