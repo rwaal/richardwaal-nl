@@ -8,7 +8,7 @@ introDescription = "I'm a freelance cloud engineer from the Netherlands with a p
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = "XXXXXXXXXX"
+# ga_analytics = "XXXXXXXXXX"
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
