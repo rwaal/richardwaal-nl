@@ -5,6 +5,8 @@ summary: "How to associate a Public IP address in Azure to an existing network i
 date: 2020-03-09
 draft: false
 author: richard
+thumbnail: /posts/public-ip.png
+featureImage: /posts/public-ip.png
 
 tags: [
     "azure",

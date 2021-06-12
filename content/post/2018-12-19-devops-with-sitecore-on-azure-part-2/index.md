@@ -4,6 +4,8 @@ description: "This is the second of two posts with tips and tricks about running
 date: 2018-12-29
 draft: false
 author: richard
+thumbnail: /posts/elastic-pool.png
+featureImage: /posts/elastic-pool.png
 
 tags: [
     "app services",

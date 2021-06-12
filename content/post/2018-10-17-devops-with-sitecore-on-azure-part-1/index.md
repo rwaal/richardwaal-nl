@@ -4,6 +4,8 @@ description: "This blog post is the fist of two posts with tips and tricks about
 date: 2018-10-17
 draft: false
 author: richard
+thumbnail: /posts/app-service-environment.png
+featureImage: /posts/app-service-environment.png
 
 tags: [
     "app services",

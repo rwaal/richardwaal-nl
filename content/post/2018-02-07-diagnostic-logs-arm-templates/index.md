@@ -4,6 +4,8 @@ description: "In this blog post I will show you how to configure diagnostic sett
 date: 2018-02-07
 draft: false
 author: richard
+thumbnail: /posts/az-diagnostics.png
+featureImage: /posts/az-diagnostics.png
 ---
 
 In this post I will show you how to configure diagnostic settings on Azure resources using an Azure Resource Manager (ARM) template. With the diagnostic settings enabled, you can store the diagnostics in blob storage or use it other services, such as Log Analytics.

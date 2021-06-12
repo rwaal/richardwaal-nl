@@ -4,6 +4,8 @@ description: "A small tip about deploying Azure Resource Manager templates with 
 date: 2019-05-28
 draft: false
 author: richard
+thumbnail: /posts/ansible.png
+featureImage: /posts/ansible.png
 
 tags: [
     "ansible",
