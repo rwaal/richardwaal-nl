@@ -43,6 +43,4 @@ ModHeader is available for Google Chrome and most other Chromium based browsers,
 
 # Conclusion
 
-With this simple trick your browser will always redirect to the en-us version of the Microsoft Docs website. 
-
-If you want, you can also do it the other way around, where you are redirected to your local language instead of the English version.
+With this simple trick your browser will always redirect to the en-us version of the Microsoft Docs website.
