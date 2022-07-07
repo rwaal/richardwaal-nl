@@ -83,7 +83,7 @@ languageMenuName = "🌐"
 iconsDir = "icons/" # without a leading forward slash
 
 [plausible_analytics]
-enable = true # to enable plausible analytics set to true.
+enable = false # to enable plausible analytics set to true.
 websiteDomain = "richardwaal.nl" # domain name of your website, most cases same as your base url
 # plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
 # scritpName = "plausible" # default is set to plausible, only required if using a custome name for script
